@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/ProtoTypeScene.unity
+    guid: 64af796cfc3ed2b4c89c4eaf1fbc9c35
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: d707ba41597b2394abf0633ded6f67a4
+  - enabled: 1
+    path: Assets/Scenes/RuleScreen.unity
+    guid: 3b4c37b5b2cdd0b418d3eaa7bfe77c65
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 07406d1e4dda9d84fa5034abe2c14f7b
+  - enabled: 1
+    path: Assets/Scenes/You Win.unity
+    guid: 03737b0e2233ef145b8c2e016c52e2e6
+  - enabled: 1
+    path: Assets/Scenes/You Lose.unity
+    guid: 8252ca2c2953d4341a8e121ff9b1eda5
+  m_configObjects: {}
